@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/ByteOrderMark.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/ByteOrderParser.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/Charsets.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/CopyUtils.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/DirectoryWalker.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/EndianUtils.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/FileCleaner.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/FileCleaningTracker.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/FileDeleteStrategy.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/FileExistsException.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/FilenameUtils.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/FileSystem.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/FileSystemUtils.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/FileUtils.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/HexDump.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/IOCase.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/IOExceptionList.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/IOExceptionWithCause.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/IOIndexedException.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/IOUtils.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/LineIterator.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/overview.html"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/package.html"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/StandardLineSeparator.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/StreamIterator.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/TaggedIOException.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/ThreadMonitor.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/comparator/AbstractFileComparator.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/comparator/CompositeFileComparator.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/comparator/DefaultFileComparator.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/comparator/DirectoryFileComparator.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/comparator/ExtensionFileComparator.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/comparator/LastModifiedFileComparator.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/comparator/NameFileComparator.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/comparator/package.html"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/comparator/PathFileComparator.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/comparator/ReverseFileComparator.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/comparator/SizeFileComparator.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/AccumulatorPathVisitor.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/CleaningPathVisitor.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/CopyDirectoryVisitor.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/Counters.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/CountingPathVisitor.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/DeleteOption.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/DeletingPathVisitor.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/DirectoryStreamFilter.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/NoopPathVisitor.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/package.html"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/PathFilter.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/PathUtils.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/PathVisitor.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/SimplePathVisitor.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Documents/commons-io-2.11.0-src/src/main/java/org/apache/commons/io/file/StandardDeleteOption.java"/>
+	<classpathentry kind="lib" path="/Users/Guga/Downloads/commons-io-2.11.0/commons-io-2.11.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Guga/Downloads/commons-io-2.11.0/commons-io-2.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Guga/Downloads/commons-io-2.11.0/commons-io-2.11.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Guga/Downloads/commons-io-2.11.0/commons-io-2.11.0-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/Guga/Downloads/commons-io-2.11.0/commons-io-2.11.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

@@ -54,6 +54,9 @@ public class LoginPageTest extends TestBase
 		
 				
 	}
+	
+	//CLOSING THE SESSION
+	
 	@AfterClass
 	public void teardown()
 	{

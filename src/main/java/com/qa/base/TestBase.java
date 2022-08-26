@@ -10,6 +10,7 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.internal.thread.ThreadUtil;
 
 import com.qa.util.TestUtil;
 
@@ -52,7 +53,7 @@ public static void Invokingbrowser()
 		}
 	driver.manage().timeouts().implicitlyWait(TestUtil.IMPLICIT_TIMEOUT, TimeUnit.SECONDS);
 	driver.manage().timeouts().pageLoadTimeout(TestUtil.PAGE_LOAD_TIMEOUT, TimeUnit.SECONDS);
-	driver.manage().deleteAllCookies();
+	driver.manage().deleteAllCookies();//deleting all cookies
 	driver.manage().window().maximize();
 	driver.get(prop.getProperty("url"));
 	}
